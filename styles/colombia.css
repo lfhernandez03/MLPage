@@ -65,6 +65,11 @@ header h1{
 
 }
 
-.aside  {
+.principal  {
     display: flex;
+}
+
+.aside h2 {
+    font-weight: 950;
+    padding-left: 260px;
 }
