@@ -60,3 +60,11 @@ header h1{
     font-weight: 1000;
 }
 
+.bandera-colombia {
+    border-radius: 8px;
+
+}
+
+.aside  {
+    display: flex;
+}
