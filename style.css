@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
 * {
     font-family: "Playfair Display";
     font-weight: 400;
     font-style: normal;
 }   
-
+body p{
+text-align: center;
+margin-left: 300px;
+margin-right: 300px;
+font-family: "Manrope";
+}
 header{
     background-color: blueviolet;
     position: relative;
@@ -44,6 +50,7 @@ header h1{
     border-radius: 8px;
     font-weight: 1000;
 }
+
 
 .contenido{
     float: left;
